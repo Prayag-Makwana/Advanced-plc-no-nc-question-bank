@@ -24,3 +24,11 @@ Q6. Make a logic, when start PB is pressed a motor gets switched ON, when run-PB
 Ans. ![image](https://user-images.githubusercontent.com/75440724/120649402-567d6c00-c49a-11eb-8001-c82c9cebc01f.png)
 Q7. Switch ON and OFF a lamp with a toogle switch.
 Ans. ![image](https://user-images.githubusercontent.com/75440724/120649725-b542e580-c49a-11eb-96c0-856b04163e6e.png)
+Q8. Make a logic using 6NO push buttons and 4 lights.
+Ans. ![image](https://user-images.githubusercontent.com/75440724/120743535-d5b08580-c516-11eb-806f-6d20b1647727.png)
+Q9. Make a logic using set reset instruction, when first PB is pressed output is SET. When second PB is pressed, output is reset
+Ans. ![image](https://user-images.githubusercontent.com/75440724/120743841-64250700-c517-11eb-850c-af5a432bbcb7.png)
+Q10. Make a logic using three push buttons and three lights.
+Ans. ![image](https://user-images.githubusercontent.com/75440724/120744443-a1d65f80-c518-11eb-9326-8cadcf0656fe.png)
+Q11. Make a logic using NOPB when NOPB is pressed first motor gets on and when released second motor gets on.
+Ans. ![image](https://user-images.githubusercontent.com/75440724/120744675-2628e280-c519-11eb-9bde-9456c433128d.png)
